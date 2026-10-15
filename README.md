@@ -64,6 +64,7 @@ I enjoy building robust backend architectures, creating modern frontend experien
 Enterprise contract management solution developed for the Saudi Contractors Authority.
 
 **Technologies**
+
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20)](https://laravel.com/framework/docs)
 [![Vue.js](https://img.shields.io/badge/Vue.js-42B883)](https://vuejs.org)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1)](https://www.mysql.com)
