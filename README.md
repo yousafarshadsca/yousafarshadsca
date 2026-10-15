@@ -19,27 +19,27 @@ I enjoy building robust backend architectures, creating modern frontend experien
 ## 🛠️ Tech Stack
 
 ### Backend
-[![PHP](https://img.shields.io/badge/PHP)](https://www.php.net/docs.php)
-[![Laravel](https://img.shields.io/badge/Laravel)](https://laravel.com/framework/docs)
-[![Node.js](https://img.shields.io/badge/Node.js)](https://nodejs.org/en)
-[![python](https://img.shields.io/badge/Python)](https://www.python.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4)](https://www.php.net/docs.php)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20)](https://laravel.com/framework/docs)
+[![Node.js](https://img.shields.io/badge/Node.js-339933)](https://nodejs.org/en)
+[![python](https://img.shields.io/badge/Python-3776AB)](https://www.python.org)
 
 ### Frontend
-[![Vue.js](https://img.shields.io/badge/Vue.js)](https://vuejs.org)
-[![React](https://img.shields.io/badge/React)](https://react.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript)](https://www.typescriptlang.org)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42B883)](https://vuejs.org)
+[![React](https://img.shields.io/badge/React-61DAFB)](https://react.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)](https://www.typescriptlang.org)
 
 ### Databases
-[![MySQL](https://img.shields.io/badge/MySQL)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1)](https://www.mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248)](https://www.mongodb.com)
 
 ### DevOps & Cloud
-[![Docker](https://img.shields.io/badge/Docker)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes)](https://kubernetes.io)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions)](https://github.com/features/actions)
-[![Linux](https://img.shields.io/badge/Linux)](https://www.linux.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)](https://kubernetes.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF)](https://github.com/features/actions)
+[![Linux](https://img.shields.io/badge/Linux-FCC624)](https://www.linux.org)
 ## 🚀 Key Achievements
 
 ✅ 8+ years of Full-Stack Development Experience
