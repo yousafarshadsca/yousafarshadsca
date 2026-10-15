@@ -19,10 +19,10 @@ I enjoy building robust backend architectures, creating modern frontend experien
 ## 🛠️ Tech Stack
 
 ### Backend
-!ttps://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&hite
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&hite)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-tps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=whitehttps://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&=black
@@ -30,15 +30,14 @@ tps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-QL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-s://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodbwhite
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodbwhite)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kuberneteste
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=forthub-actions&logoColor=white
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=fore&logo=linux&logoColor=black
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kuberneteste)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=forthub-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=fore&logo=linux&logoColor=black)
 ## 🚀 Key Achievements
 
 ✅ 8+ years of Full-Stack Development Experience
