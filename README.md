@@ -25,8 +25,10 @@ I enjoy building robust backend architectures, creating modern frontend experien
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe)
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=whitehttps://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&=black
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoTypeScript](https://img.shields.io/badge/TypeScript-3178C6-badge&logo=typescript&logoColor=white
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logo)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6-badge&logo=typescript&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
