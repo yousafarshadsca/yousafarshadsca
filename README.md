@@ -64,11 +64,11 @@ I enjoy building robust backend architectures, creating modern frontend experien
 Enterprise contract management solution developed for the Saudi Contractors Authority.
 
 **Technologies**
-- Laravel
-- Vue.js
-- MySQL
-- REST APIs
-- Tailwind CSS
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20)](https://laravel.com/framework/docs)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42B883)](https://vuejs.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1)](https://www.mysql.com)
+[![REST API](https://img.shields.io/badge/REST_API-02569B)](https://cloud.google.com/discover/what-is-rest-api)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4)](https://tailwindcss.com)
 
 **Highlights**
 - Supported 118,000+ registered contractors
