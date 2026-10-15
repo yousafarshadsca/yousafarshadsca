@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Yousaf Arshad
 
-### Senior Full-Stack Engineer | Laravel Developer | PHP Developer
+### Senior Full-Stack Engineer | Laravel Developer | PHP Developer | Software Engineer | Web Developer
 
 📍 Burnley, Lancashire, United Kingdom  
 💼 8+ Years of Full-Stack Development Experience  
@@ -12,7 +12,7 @@
 
 I'm a Senior Full-Stack Engineer with over 8 years of experience designing, developing, and scaling enterprise applications, SaaS platforms, contractor management systems, and API-driven solutions.
 
-Most recently, I contributed to the Saudi Contractors Authority's E-Contract Platform, supporting growth from 20,000 to 118,000+ registered contractors and helping deliver secure digital contract management workflows at national scale. 【1-c014fd】
+Most recently, I contributed to the Saudi Contractors Authority's E-Contract Platform, supporting growth from 20,000 to 118,000+ registered contractors and helping deliver secure digital contract management workflows at national scale.
 
 I enjoy building robust backend architectures, creating modern frontend experiences, and delivering products from idea to production.
 
@@ -103,13 +103,9 @@ Digital workflow automation platform for university administration.
 
 ## 📫 Connect With Me
 
-📧 yousoftme@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/yousoftme
-
-🐙 GitHub:
-https://github.com/yousafarshadsca
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335)](mailto:yousoftme@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/yousoftme)
+[![GitHub](https://img.shields.io/badge/GitHub-100000)](https://github.com/yousafarshadsca)
 
 ---
 
