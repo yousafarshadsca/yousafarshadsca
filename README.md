@@ -20,26 +20,26 @@ I enjoy building robust backend architectures, creating modern frontend experien
 
 ### Backend
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&hite)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&hite)](https://laravel.com/framework/docs)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe)](https://www.python.org)
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logo)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6-badge&logo=typescript&logoColor=white)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&=black)](https://react.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logo)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodbwhite)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodbwhite)](https://www.mongodb.com)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kuberneteste)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=forthub-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=fore&logo=linux&logoColor=black)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kuberneteste)](https://kubernetes.io)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=forthub-actions&logoColor=white)](https://github.com/features/actions)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=fore&logo=linux&logoColor=black)](https://www.linux.org)
 ## 🚀 Key Achievements
 
 ✅ 8+ years of Full-Stack Development Experience
