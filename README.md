@@ -28,7 +28,7 @@ I enjoy building robust backend architectures, creating modern frontend experien
 [![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&=black)](https://react.dev)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logo)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
