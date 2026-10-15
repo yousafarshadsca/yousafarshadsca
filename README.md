@@ -16,30 +16,28 @@ Most recently, I contributed to the Saudi Contractors Authority's E-Contract Pla
 
 I enjoy building robust backend architectures, creating modern frontend experiences, and delivering products from idea to production.
 
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-thelogo=php&logoColor=white
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColordeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=logoColor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&n&logoColor=white
+!ttps://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&hite
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+tps://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-tps://img.shields.io/badge/React-61DAFB?style=for-thego=react&logoColor=black
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColorcript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=whitehttps://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&=black
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoTypeScript](https://img.shields.io/badge/TypeScript-3178C6-badge&logo=typescript&logoColor=white
 
-[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=whiteeSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-thestgresql&logoColor=white
-![MongoDB](https://img.shields.io/badge/248?style=for-the-badge&logo=mongodb&logoColor=white
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+QL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+s://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodbwhite
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&r&logoColor=white
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CEe-badge&logo=kubernetes&logoColor=white
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actionsthe-badge&logo=github-actions&logoColor=white
-![Linux](https://img.shields.io/badge/Linux-FCC624r-the-badge&logo=linux&logoColor=black
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kuberneteste
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=forthub-actions&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=fore&logo=linux&logoColor=black
 
 ## 🚀 Key Achievements
 
